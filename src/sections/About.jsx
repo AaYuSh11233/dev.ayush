@@ -115,7 +115,7 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
               I specialize in a wide range - from elegent
               frontends to powerful AI pipelines. I work
