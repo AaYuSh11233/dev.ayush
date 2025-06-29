@@ -119,9 +119,7 @@ const About = () => {
             <p className="subtext">
               I specialize in a wide range - from elegent
               frontends to powerful AI pipelines. I work
-              across web, app, ML, and game development
-              using tools and frameworks that scale
-              with ambition.
+              across web, app, ML, and game dev.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
