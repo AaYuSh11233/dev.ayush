@@ -97,7 +97,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AaYuSh11233/devayush.git
+   git clone https://github.com/AaYuSh11233/dev.ayush.git
    cd devayush
    ```
 
