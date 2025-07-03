@@ -228,21 +228,9 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Competative Gaming",
-    job: "Rusher & Sniper",
-    date: "2020-2023",
-    contents: [
-    "Ranked among the top 100 players in India across PvP and strategy-based titles.",
-    "Specialized in Sniper, Rusher, and IGL roles — balancing precision, speed, and leadership.",
-    "Joined structured guilds and led ranked scrims with top-tier coordination.",
-    "Contributed to strategy planning and high-pressure matches at national-level standards.",
-    "Gained deep insight into game design, player psychology, and competitive systems.",
-  ],
-  },
-  {
     title: "Independent Scholar",
     job: "Self-Study",
-    date: "2023-2024",
+    date: "2020-2023",
     contents: [
       "Explored physics, from classical mechanics to quantum principles, and mathematics shaping the logic of nature.",
       "Studied chemistry's molecular foundations and biology's systems — from peptides to genetics.",
@@ -251,15 +239,27 @@ export const experiences = [
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
+    title: "Intern",
+    job: "Developer",
+    date: "2023-2024",
+    contents: [
+      "Worked as an intern developer contributing to production-ready software projects.",
+      "Built full-stack, AI-driven, and OS-level applications with usability and performance in mind.",
+      "Collaborated with academic and industry mentors on technically demanding projects.",
+      "Created modern, interactive web experiences with real-time and animated interfaces.",
+      "Took ownership of tasks end-to-end, from planning to deployment with clean documentation.",
+    ],
+  },
+  {
+    title: "Open Source & Hackathon Contributor",
+    job: "Community Innovator",
     date: "2024-Present",
     contents: [
-    "Built full-stack and AI-driven applications using Next.js, React, Node.js, and Python.",
-    "Delivered research-heavy tools and custom ML models with long-term usability in mind.",
-    "Specialized in high-complexity projects requiring deep system thinking and polish.",
-    "Created immersive web experiences with real-time features and modern motion libraries.",
-    "Worked independently with a focus on performance, security, and technical elegance.",
-  ],
+      "Contributed to open-source projects like CLI tools, OS kernels, and AI research prototypes.",
+      "Awarded at national-level hackathons for creative, impactful technical solutions.",
+      "Maintaining a 6-commit-per-day coding streak with hundreds of contributions.",
+      "Showcased 15+ projects spanning OS, AI, web, and game development domains.",
+      "Engaged in developer communities, sharing knowledge and mentoring peers online.",
+    ],
   },
 ];
