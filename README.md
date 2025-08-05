@@ -4,7 +4,7 @@ A modern, interactive portfolio website showcasing my skills, projects, and expe
 
 ## 🚀 Live Demo
 
-[View Live Portfolio]([https://devninjaa.vercel.app/]) 
+[View Live Portfolio](https://devninjaa.vercel.app/)
 
 ## ✨ Features
 
