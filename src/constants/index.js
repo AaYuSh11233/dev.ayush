@@ -10,7 +10,7 @@ export const myProjects = [
       "Implementing advanced AI systems for NPC interactions and combat.",
       "Optimizing performance for high-quality graphics and smooth gameplay.",
     ],
-    href: "https://github.com/AaYuSh11233/ElementalistAscent.git",
+    href: "https://github.com/dev-Ninjaa/ElementalistAscent.git",
     logo: "",
     image: "/assets/projects/p4.jpg",
     tags: [
@@ -33,7 +33,7 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "LunaAI",
+    title: "Vortex-AI",
     description:
       "A dekstop companion that automates almost everything using Voice Commands.",
     subDescription: [
@@ -42,7 +42,7 @@ export const myProjects = [
       "Integrated with various APIs for tasks like Gemini and smart home control.",
       "Utilized SQLite for local data storage and management.",
     ],
-    href: "https://github.com/AaYuSh11233/Luna-AI.git",
+    href: "https://github.com/dev-Ninjaa/Vortex-AI.git",
     logo: "",
     image: "/assets/projects/p2.jpg",
     tags: [
@@ -79,7 +79,7 @@ export const myProjects = [
       "Trained the model on a diverse dataset for robust performance.",
       "Implemented real-time detection capabilities for LunaAI.",
     ],
-    href: "https://github.com/AaYuSh11233/HotWord.git",
+    href: "https://github.com/dev-Ninjaa/HotWord.git",
     logo: "",
     image: "/assets/projects/p1.jpg",
     tags: [
@@ -102,33 +102,33 @@ export const myProjects = [
   },
   {
     id: 4,
-    title: "Dino Game Clone",
+    title: "Mod Menu",
     description:
-      "A clone of the classic Dino game, built as a personal project to enhance my game development skills.",
+      "A hybrid terminal for those who love Linux's aesthetic and power but operate in a Windows environment.",
     subDescription: [
-      "Developed a 2D game using HTML, CSS and JS.",
-      "Implemented game mechanics including player controls, obstacles, and scoring.",
-      "Designed graphics and animations for a polished user experience.",
-      "Optimized performance for smooth gameplay on various devices.",
+      "Developed a terminal application using Rust and Toml for configuration.",
+      "Ensured cross-platform compatibility with a focus on performance and usability.",
+      "Integrated with various system commands and utilities for enhanced functionality.",
+     
     ],
-    href: "https://github.com/AaYuSh11233/Dino-clone.git",
+    href: "https://github.com/dev-Ninjaa/mod_menu.git",
     logo: "",
-    image: "/assets/projects/p5.jpg",
+    image: "/assets/projects/p7.jpg",
     tags: [
       {
         id: 1,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "Linux",
+        path: "/assets/logos/linux.svg",
       },
       {
         id: 2,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        name: "Rust",
+        path: "/assets/logos/rust.svg",
       },
       {
         id: 3,
-        name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        name: "Toml",
+        path: "/assets/logos/toml.svg",
       },
     ],
   },
@@ -143,7 +143,7 @@ export const myProjects = [
       "Added features like language translation and in built AI chatbot",
       "Ensured compatibility with various websites and optimized performance.",
     ],
-    href: "https://github.com/AaYuSh11233/Brefify.git",
+    href: "https://github.com/dev-Ninjaa/Brefify.git",
     logo: "",
     image: "/assets/projects/p3.jpg",
     tags: [
@@ -180,7 +180,7 @@ export const myProjects = [
       "Added features like image sharing, video calling, and user authentication.",
       "Ensured data security and privacy with encryption and secure storage.",
     ],
-    href: "https://github.com/AaYuSh11233/Chill-Chat.git",
+    href: "https://github.com/dev-Ninjaa/Chill-Chat.git",
     logo: "",
     image: "/assets/projects/p6.jpg",
     tags: [
@@ -216,13 +216,18 @@ export const mySocials = [
   },
   {
     name: "GitHub",
-    href: "https://github.com/AaYuSh11233",
+    href: "https://github.com/dev-Ninjaa",
     icon: "/assets/socials/github.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com/_dev.ninja_/",
     icon: "/assets/socials/instagram.svg",
+  },
+  {
+    name: "X",
+    href: "https://x.com/im_ninjaa",
+    icon: "/assets/socials/x.svg",
   },
 ];
 
